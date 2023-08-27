@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+//#define num 77
+//#define x y
+//#define y 10
+
+
+int main()
+{
+   // printf("%d\n",num);
+    //printf("%d",y);
+    printf("%s%s\n","welcome","zino");
+
+    return 0;
+}
